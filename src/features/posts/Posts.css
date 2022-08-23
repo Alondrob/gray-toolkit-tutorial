@@ -1,0 +1,11 @@
+.section {
+    display: block;
+    
+}
+
+.formPart {
+    display: block;
+    text-align: center;
+    margin-right: auto;
+    margin-left: auto;
+}
